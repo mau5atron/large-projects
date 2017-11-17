@@ -1,3 +1,4 @@
+# README
 Gabe's game was a simulation of a childhood favorite game of mine Pokemon.  
 
 It prompted the user to choose between fighting or walking around to encounter different pokemon.  
